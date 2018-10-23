@@ -1,17 +1,17 @@
 # Grocery List Application using Xamarin Android
 
-<img src="ScreenShot/Capture.PNG">
-<img src="ScreenShot/1.PNG">
-<img src="ScreenShot/2.PNG">
-<img src="ScreenShot/3.PNG">
-<img src="ScreenShot/a.PNG">
-<img src="ScreenShot/b.PNG">
-<img src="ScreenShot/Capture1.PNG">
-<img src="ScreenShot/Capture2.PNG">
-<img src="ScreenShot/Capture3.PNG">
-<img src="ScreenShot/Capture4.PNG">
-<img src="ScreenShot/i.PNG">
-<img src="ScreenShot/n.PNG">
-<img src="ScreenShot/o.PNG">
-<img src="ScreenShot/p.PNG">
+<img src="ScreenShots/Capture.PNG">
+<img src="ScreenShots/1.PNG">
+<img src="ScreenShots/2.PNG">
+<img src="ScreenShots/3.PNG">
+<img src="ScreenShots/a.PNG">
+<img src="ScreenShots/b.PNG">
+<img src="ScreenShots/Capture1.PNG">
+<img src="ScreenShots/Capture2.PNG">
+<img src="ScreenShots/Capture3.PNG">
+<img src="ScreenShots/Capture4.PNG">
+<img src="ScreenShots/i.PNG">
+<img src="ScreenShots/n.PNG">
+<img src="ScreenShots/o.PNG">
+<img src="ScreenShots/p.PNG">
 
